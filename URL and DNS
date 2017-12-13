@@ -1,0 +1,14 @@
+https://www.easyredir.com/blog/how-http-dns-work-together-to-make-url-redirects-happen/
+
+
+URL: Uniform Resource Locater
+DNS: Domain Name System
+
+URL = 'http://www.google.com'
+DNS = 'google.com': 172.217.9.174
+
+
+1. http:// indicates that you wish to connect to a web server, one that speaks the Hypertext Transfer Protocol, or HTTP. This specifies the language of the conversation that will happen between your browser and the web server.
+
+2. On the Internet, the Domain Name Service, or the DNS, acts like an address book.
+
